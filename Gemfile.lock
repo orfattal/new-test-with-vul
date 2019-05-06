@@ -53,7 +53,7 @@ GEM
     concurrent-ruby (1.1.4)
     crass (1.0.4)
     debug_inspector (0.0.3)
-    easymon (1.4.1)
+    easymon (1.4)
       redis
     erubis (2.7.0)
     execjs (2.7.0)
@@ -163,7 +163,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.1)
-  easymon (= 1.4.1)
+  easymon (= 1.4.0)
   jbuilder (~> 2.0)
   jquery-rails (>= 4.3.3)
   rails (= 5.0.7.1)
@@ -175,4 +175,4 @@ DEPENDENCIES
   web-console (~> 2.3, >= 2.3.0)
 
 BUNDLED WITH
-   1.17.3
+   2.0.1
